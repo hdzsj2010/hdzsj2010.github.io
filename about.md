@@ -5,7 +5,7 @@ permalink: /about/
 public: true
 ---
 
-##我是自由的渣森：Jason##
+## 我是自由的渣森：Jason ##
 
 欢迎参观我的博客，希望和你们共同交流与进步!
 
@@ -13,13 +13,13 @@ public: true
 
 ### 研究方向 ###
 
-```javascript
+```ruby
 web开发 / 系统架构设计 / Java中间件 / 数据挖掘
 ```
 
 ### 关于作者 ###
 
-```javascript
+```ruby
   var ihubo = {
     nickName  : "Jason",
     site : "http://hdzsj2010.github.io/",
