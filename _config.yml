@@ -1,16 +1,16 @@
 # Site settings
-title: Another Blog
+title: 渣森的网络日志
 url: "http://hdzsj2010.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  记录技术路上的点滴心得.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: zhangsenjie2014@gmail.com
+author: JasonZhang
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: 路漫漫其修远兮.
 #twitter_username: twitter_username
 #github_username:  github_username
 
