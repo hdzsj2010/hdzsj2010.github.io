@@ -13,9 +13,8 @@ public: true
 
 ### 研究方向 ###
 
-```ruby
-web开发 / 系统架构设计 / Java中间件 / 数据挖掘
-```
+
+> web开发 / 系统架构设计 / Java中间件 / 数据挖掘
 
 ### 关于作者 ###
 
@@ -28,5 +27,6 @@ web开发 / 系统架构设计 / Java中间件 / 数据挖掘
     hobbies:[swimming,travel,coding]
   }
 ```
+
 
 > This website is using the theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
